@@ -1,0 +1,3 @@
+TITLE BOOMBER MAN
+java -jar BOOMBER_MAN.jar
+PAUSE

@@ -1,0 +1,10 @@
+Goal of the game
+Game consists of 5 levels. Plant bombs to destroy enemies and boxes!
+Get the best score and find entrance to the next level in the shortest time!
+Game control
+ARROW UP - move up
+ARROW DOWN - move down
+ARROW LEFT - move left
+ARROW RIGHT - move right
+SPACE - plant bomb
+P - pause
